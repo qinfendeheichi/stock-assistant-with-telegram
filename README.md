@@ -4,7 +4,12 @@ retrieve designated advanced info of securities in China
 you can watch a demo video named demo.mp4
 
 It is a basic version of stock assistant that can help you retrieve info of stocks in China.
-<img src="https://github.com/stock-assistant-with-telegram/demo_gif/demo1.gif" alt="show" />
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo3.gif
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo4.gif
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo5.gif
+https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo6.gif
 
 
 You can get your info, including:
