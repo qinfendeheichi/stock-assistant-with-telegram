@@ -4,7 +4,7 @@ retrieve designated advanced info of securities in China
 you can watch a demo video named demo.mp4
 
 demo1: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif   
-demo2: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif 
+demo2: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif   
 demo3: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo3.gif  
 demo4: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo4.gif  
 demo5: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo5.gif  
