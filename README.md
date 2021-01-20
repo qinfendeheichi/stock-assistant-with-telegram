@@ -3,13 +3,6 @@ retrieve designated advanced info of securities in China
 
 you can download demo.mp4 and watch a full demo video or view different functions listed below
 
-<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif" alt="show" />  
-<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif" alt="show" />  
-<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo3.gif" alt="show" />  
-demo4: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo4.gif  
-demo5: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo5.gif  
-demo6: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo6.gif  
-
 You can get your info, including:
 
   1. show and	analyse the north-oriented money in a recent period of a stock.
@@ -29,6 +22,16 @@ Note:
   3. The importance of the morning 15 transaction raito of a day in China's stock market is emphasized by Guangda securities.
   
 The functions are powered by state-transtion table, you can find more info in "expanation documents"
+
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif" alt="show" />  
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif" alt="show" />  
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo3.gif" alt="show" />  
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo4.gif" alt="show" />  
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo5.gif" alt="show" />   
+<img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo6.gif" alt="show" />  
+
+
+
 
 
 
