@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 import re
 import spacy
 import datetime
@@ -22,10 +19,8 @@ from text_rating_ import *
 from initialize import *
 from interpreter import *
 nlp = spacy.load('en_core_web_sm') 
-
-
-# In[3]:
-
+month_match={'jan':1,'feb':2,'mar':3,'apr':4,'may':5,'jun':6,'july':7,'aug':8,'sep':9,'oct':10,'nov':11,'dec':12}
+punc=[',','.','!','?']
 
 def interpret(message):
     msg = message.lower()

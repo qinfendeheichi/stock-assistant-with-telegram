@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[7]:
-
-
 import re
 import spacy
 import datetime
@@ -52,10 +49,6 @@ SHOW_ACC_='SHOW_ACC_'
 month_match={'jan':1,'feb':2,'mar':3,'apr':4,'may':5,'jun':6,'july':7,'aug':8,'sep':9,'oct':10,'nov':11,'dec':12}
 recorder=[]
 
-
-# In[11]:
-
-
 class word:
     def sorry():
         return random.choice(["I'm sorry!","Sorry,","Forgive me,","Please,"])
@@ -91,16 +84,11 @@ class word:
         return random.choice(['wait a minute','wait a second','give me some time','give me some seconds'])
     def alleviate():
         return random.choice(["Don't worry!","Please,","Be patient!"])
-    def imporve_modal_verb():
+    def improve_modal_verb():
         return random.choice(["may",'will','can'])
     def improve_verb():
         return random.choice(['improve my self','be better','make a difference','make progress'])
     
-
-
-# In[12]:
-
-
 def case_init():                            # STATE INIT
     return 'welcome back!'
 
@@ -187,10 +175,6 @@ switch_word = {'INIT': case_init,
           'SEND_SORRY_': case_send_sorry_,
           'SHOW_ACC_': case_show_acc_,
           }
-
-
-# In[9]:
-
 
 def image_show_north_():
     return show_north_
