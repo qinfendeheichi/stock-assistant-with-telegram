@@ -1,7 +1,9 @@
 # stock-assistant-with-telegram
 retrieve designated advanced info of securities in China
 
-It is basic version of stock assistant that can help you retrieve info of stocks in China.
+you can watch a demo video named demo.mp4
+
+It is a basic version of stock assistant that can help you retrieve info of stocks in China.
 
 You can get your info, including:
 
@@ -22,6 +24,9 @@ Note:
   3. The importance of the morning 15 transaction raito of a day in China's stock market is emphasized by Guangda securities.
   
 The functions are powered by state-transtion table, you can find more info in "expanation documents"
+
+
+
   
 
 
