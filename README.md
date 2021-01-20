@@ -1,7 +1,7 @@
 # stock-assistant-with-telegram
 retrieve designated advanced info of securities in China
 
-you can watch a demo video named demo.mp4
+you can download demo.mp4 and watch a full demo video or view different functions listed below
 
 demo1: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif   
 demo2: https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif   
