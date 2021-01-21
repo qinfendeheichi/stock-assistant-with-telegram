@@ -21,7 +21,7 @@ Note:
   2. The double bottom formation is detailed by Huachuang Security. You can see the shape in the resporitory named "explanation documents"，“the shape of a double bottom.png”
   3. The importance of the morning 15 transaction raito of a day in China's stock market is emphasized by Guangda securities.
   
-The functions are powered by state-transtion table, you can find more info in "expanation documents"
+The functions are powered by state-transtion table, you can find more info in "expanation documents", inluding the introduction of double-bottom model 
 
 <img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo1.gif" alt="show" />  
 <img src="https://github.com/qinfendeheichi/stock-assistant-with-telegram/blob/main/demo_gif/demo2.gif" alt="show" />  
