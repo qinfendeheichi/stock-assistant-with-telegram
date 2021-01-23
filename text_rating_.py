@@ -7,11 +7,10 @@ import warnings
 warnings.filterwarnings("ignore")
 import translators as ts
 
-def text_rating_(state, recorder):
+def text_rating_(state:[str], recorder:[list]):-> 'str:the content of the text to be returned to the user'
     """
     get the text of info released within desigabout special ratings of securities from 
     some top security companies in China.
-    
     """
     try:
         df=pd.read_excel('rating_july.xlsx')
