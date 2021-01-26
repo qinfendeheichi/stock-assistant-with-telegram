@@ -13,7 +13,7 @@ import warnings
 import datetime
 warnings.filterwarnings("ignore")
 
-def show_morning_ratio_(state,recorder):
+def show_morning_ratio_(state:[str],recorder:"list with the length of 2(out of order): code and attribute ")->"the picture returned":
     """
     show the ratio of transacitons created in the first 15 minutes of the trading time
     within the latest several days
