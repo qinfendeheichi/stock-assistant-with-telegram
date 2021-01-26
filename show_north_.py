@@ -13,7 +13,7 @@ import warnings
 import datetime
 warnings.filterwarnings("ignore")
 
-def show_north_(state,recorder):
+def show_north_(state:[str],recorder:"list,the length should be 1")->"the location of the returning picture":
     """
     It shows the north-oriented money flowing from foreign countries or HongKong 
     to China's stock market in the latest 15 days. 
