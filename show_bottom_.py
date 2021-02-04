@@ -18,6 +18,10 @@ def find_lowest(x,y,standard_data):
     """
     find the lowest price between week x and week y, 
     all attributes are meassureed by the unit 'week'
+    
+    x  the date of the left boundary
+    y  the date of the right boundary
+    standard_data    stock info dataframe
     """
     lowest=9999
     result_date=None
